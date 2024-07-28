@@ -1,4 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-xZ4mSXJWD64k_m9qPBEe3kl9ctutth-5g&usqp=CAU)](https://sazzadhossen2.io)
+[![MasterHead](![White Clean Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/9f9d95da-6f9e-4f2a-b17b-c12b2ee6f842)
+)](https://sazzadhossen2.io)
 <h1 align="center">Hi 👋, I'm Sazzad Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **Android, Rest-API**
 
-- 📫 How to reach me **sazzad52133@gmail.com**
+- 📫 How to reach me **sazzad4031@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
