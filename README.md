@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sazzad5213" target="blank"><img src="https://img.shields.io/twitter/follow/sazzad5213?logo=twitter&style=for-the-badge" alt="sazzad5213" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **PhP,Laravel & Vue.js**
 
-- 💬 Ask me about **Android, Rest-API**
+- 💬 Ask me about **Flutter, Rest-API,PhP,Laravel & Vue.js**
 
 - 📫 How to reach me **sazzad4031@gmail.com**
 
