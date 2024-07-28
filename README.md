@@ -17,8 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/sazzad5213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazzad5213" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sazzad-hossen-00a05929b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad-hossen-00a05929b" height="30" width="40" /></a>
-<a href="https://instagram.com/sazzad_hossen2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sazzad_hossen2" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzadhossen2&show_icons=true&locale=en&layout=compact" alt="sazzadhossen2" /></p>
 
