@@ -1,4 +1,4 @@
-[![MasterHead](![White Clean Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/9f9d95da-6f9e-4f2a-b17b-c12b2ee6f842)
+White Clean Minimalist Corporate Personal Profile LinkedIn Banner (https://github.com/user-attachments/assets/9f9d95da-6f9e-4f2a-b17b-c12b2ee6f842)
 )](https://sazzadhossen2.io)
 <h1 align="center">Hi 👋, I'm Sazzad Hossen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
