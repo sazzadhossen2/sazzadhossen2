@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sazzad5213" target="blank"><img src="https://img.shields.io/twitter/follow/sazzad5213?logo=twitter&style=for-the-badge" alt="sazzad5213" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, MERN-Stake**
+- 🌱 I’m currently learning **Node.js, MERN-Stack**
 
-- 💬 Ask me about **Flutter, Rest-API, Node.js, MERN-Stake**
+- 💬 Ask me about **Flutter, Rest-API, Node.js, MERN-Stack**
 
 - 📫 How to reach me **sazzad4031@gmail.com**
 
